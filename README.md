@@ -2,6 +2,9 @@
 
 This is the backend API for the Youni POS Application, built with Laravel.
 
+Deployed at
+https://posapi.agusdzuriana.tech
+
 ## 🚀 Getting Started
 
 ### Prerequisites
